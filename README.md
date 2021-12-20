@@ -19,4 +19,6 @@ If I had more time on this project, I would love to include testing and input va
 Unit testing is very important and it would be ideal to have unit tests with each of the types of requests that can be made. 
 Also, input validation in the form of checking that the values added in a query are of the right type would improve the standard of this rest api. 
 
+I would also include the capability to return the average values of humidity or temerature over the time specified.
+
 Please let me know if you have and questions regarding my solution.
