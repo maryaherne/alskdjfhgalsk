@@ -13,3 +13,10 @@ To create a Sensor Reading: http://localhost:8001/createReading?Temperature=40&H
 To retrieve a list of all Sensor Readings by Sensor id: http://localhost:8001/getSensorData?sensor_id=100
 
 To retrieve a list of all Sensor Readings for a specific Sensor within a Date Range: http://localhost:8001/getSensorDataByDate?Sensor_id=100&FirstDate=2022-01-01&LastDate=2022-01-04
+
+
+If I had more time on this project, I would love to include testing and input validation. 
+Unit testing is very important and it would be ideal to have unit tests with each of the types of requests that can be made. 
+Also, input validation in the form of checking that the values added in a query are of the right type would improve the standard of this rest api. 
+
+Please let me know if you have and questions regarding my solution.
